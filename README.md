@@ -6,6 +6,7 @@
 * 🔭 I’m currently working on big data analytics and real-time dashboarding.
 * 🌱 I’m currently learning Nextjs to enhance my web dev skills.
 
+### My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakesutor&layout=compact&theme=dark"/>  
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark">    <img  alt="jakesutor's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jakesutor?cardType=github&theme=github-dark" />  </a>
  
