@@ -1,10 +1,11 @@
+<!-- HTML approach -->
+<img src="https://user-images.githubusercontent.com/25678017/196063588-f3f66209-4199-414e-9055-d174eb229f07.png"/>
+
 ### Hi there 👋
 
 * 🔭 I’m currently working on big data analytics and integrating real-time dashboards into the decision-making process for client executives.
 * 🌱 I’m currently learning Nextjs to enhance my web dev skills.
 
-<!-- HTML approach -->
-<img src="https://raw.githubusercontent.com/jakesutor/jakesutor/<branch>/<file_path>"/>
 
 <!--
 **jakesutor/jakesutor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
