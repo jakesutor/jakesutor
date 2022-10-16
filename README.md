@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+* 🔭 I’m currently working on big data analytics and integrating real-time dashboards into the decision-making process for client executives.
+* 🌱 I’m currently learning Nextjs to enhance my web dev skills.
+
+<!-- HTML approach -->
+<img src="https://raw.githubusercontent.com/jakesutor/jakesutor/<branch>/<file_path>"/>
+
 <!--
 **jakesutor/jakesutor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
