@@ -3,15 +3,39 @@
 
 ### Hi there 👋
 
+### About Me:
+I'm a data scientist with a passion for visualizing big data and bringing insights to action. 
+
 * 🔭 I’m currently working on big data analytics and real-time dashboarding.
 * 🌱 I’m currently learning Nextjs to enhance my web dev skills.
 
-### My GitHub Stats
-<div id="img1" align="center">
+---
+
+### :fire: My GitHub Stats
+
+<div id="github-stats" align="center">
+<div id="img1">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakesutor&layout=compact&theme=dark"/>
 </div>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark">    <img  alt="jakesutor's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jakesutor?cardType=github&theme=github-dark" />  </a>
- 
+<p></p>
+<div id="img2">
+<img  alt="jakesutor's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jakesutor?cardType=github&theme=github-dark" />
+</div>
+</div>
+
+---
+
+### :hammer_and_wrench: My Tech Stack :
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" title="R" **alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" **alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="40" height="40"/>
+</div>
+
 <!--
 **jakesutor/jakesutor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
