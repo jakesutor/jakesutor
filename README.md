@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-### About Me:
+### :zap: About Me:
 I'm a data scientist with a passion for visualizing big data and bringing insights to action. 
 
 * 🔭 I’m currently working on big data analytics and real-time dashboarding.
