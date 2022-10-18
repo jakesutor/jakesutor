@@ -1,13 +1,14 @@
 <!-- HTML approach -->
 <img src="https://user-images.githubusercontent.com/25678017/196063588-f3f66209-4199-414e-9055-d174eb229f07.png"/>
 
-### Hi there 👋
+### Welcome! 👋
 
 ### :zap: About Me:
-I'm a data scientist with a passion for visualizing big data and bringing insights to action. 
+I'm a data analyst with a passion for visualizing big data and bringing insights to action. 
 
 * 🔭 I’m currently working on big data analytics and real-time dashboarding.
 * 🌱 I’m currently learning Nextjs to enhance my web dev skills.
+* :running: I love running, hiking, soccer, and basketball. You'll probably see a lot of those topics here! :smile:
 
 ---
 
