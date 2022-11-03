@@ -22,10 +22,6 @@ I'm a data analyst with a passion for visualizing big data and bringing insights
 <div id="img2">
 <img  alt="jakesutor's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jakesutor?cardType=github&theme=github-dark" />
 </div>
-<p></p>
-<div id="img2">
-<img  alt="Spotify-playing" src="[![Spotify](https://jakesutor.vercel.app/api/spotify)](https://open.spotify.com/user/jakesutor)" />
-</div>
 </div>
 
 ---
@@ -39,6 +35,21 @@ I'm a data analyst with a passion for visualizing big data and bringing insights
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="40" height="40"/>
+</div>
+
+---
+
+### 🎧 What am I listening to now? (There's a >50% chance it's cocomelon or lullabies...)
+
+<div id="check" align="center">
+<table width="100%"> 
+  <tr>
+  <td width="100%">
+
+&nbsp; <br> [![Spotify](https://spotify-currentlylistening.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/128055443)
+
+  </td>
+</table>
 </div>
 
 <!--
