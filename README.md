@@ -22,6 +22,10 @@ I'm a data analyst with a passion for visualizing big data and bringing insights
 <div id="img2">
 <img  alt="jakesutor's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jakesutor?cardType=github&theme=github-dark" />
 </div>
+<p></p>
+<div id="img2">
+<img  alt="Spotify-playing" src="[![Spotify](https://jakesutor.vercel.app/api/spotify)](https://open.spotify.com/user/jakesutor)" />
+</div>
 </div>
 
 ---
